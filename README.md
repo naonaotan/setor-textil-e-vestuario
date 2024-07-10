@@ -13,6 +13,8 @@ Informações interessantes para investidores são:
 - Dentre outros
   
   Vocês podem comparar esses valores entre setores (intersetorial) e dentro do mesmo setor (intrasetorial), trazer a evolução histórica deles, etc."
+  
+[Clique aqui para visualizar a apresentação no Canva](https://www.canva.com/design/DAGCsXNBK1g/64wqNAD9UKimqUOThV_UtA/edit?utm_content=DAGCsXNBK1g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### Extração dos dados
 Inicialmente extraímos os dados manualmente da plataforma CVM. Sendo:
@@ -29,6 +31,7 @@ Calculamos os seguintes indicadores financeiros para todas as empresas do setor 
 - ROE (Return on Equity)
 - ROA (Return on Assets)
 - Margem líquida
+![Indices]()
 
 Para facilitar o cálculo, inicialmente selecionamos colunas específicas - Nome da empresa (DENOM_CIA), Código da Conta (CD_CONTA) e Valor (VL_CONTA).
 
