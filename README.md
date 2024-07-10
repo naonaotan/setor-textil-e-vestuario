@@ -11,6 +11,7 @@ Informações interessantes para investidores são:
 - Receita Bruta (3.01 da DRE)
 - Resultado Antes do Resultado Financeiro e dos Tributos (EBIT) (3.05 da DRE)
 - Dentre outros
+  
   Vocês podem comparar esses valores entre setores (intersetorial) e dentro do mesmo setor (intrasetorial), trazer a evolução histórica deles, etc."
 
 ### Extração dos dados
