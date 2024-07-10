@@ -31,6 +31,7 @@ Calculamos os seguintes indicadores financeiros para todas as empresas do setor 
 - ROE (Return on Equity)
 - ROA (Return on Assets)
 - Margem líquida
+
 ![Indices]()
 
 Para facilitar o cálculo, inicialmente selecionamos colunas específicas - Nome da empresa (DENOM_CIA), Código da Conta (CD_CONTA) e Valor (VL_CONTA).
