@@ -31,8 +31,7 @@ Calculamos os seguintes indicadores financeiros para todas as empresas do setor 
 - Margem líquida
 
 Para facilitar o cálculo, inicialmente selecionamos colunas específicas - Nome da empresa (DENOM_CIA), Código da Conta (CD_CONTA) e Valor (VL_CONTA).
-Então, criamos quatro novos DataFrames (df_ll, df_pl, df_ta, df_rc), cada um contendo apenas as varíaveis referentes aos cálculos sendo Código da Conta (CD_CONTA) 1 (Ativo Total), 3.11 (Lucro Líquido), 2.03 (Patrimônio Líquido) e 3.01 (Receita Líquida).
-E mesclamos os dataframes novamente com merge.
+Então, criamos quatro novos DataFrames (df_ll, df_pl, df_ta, df_rc), cada um contendo apenas as varíaveis referentes aos cálculos sendo Código da Conta (CD_CONTA) 1 (Ativo Total), 3.11 (Lucro Líquido), 2.03 (Patrimônio Líquido) e 3.01 (Receita Líquida). Mesclamos os dataframes novamente com merge.
 Por fim, calculamos três indicadores (ROE, ROA, ML) dividindo os valores de Lucro Líquido (VL_CONTA_311) pelos valores das outras contas específicas (VL_CONTA_203, VL_CONTA_1, VL_CONTA_301),
 e adicionamos esses indicadores como novas colunas.
 
