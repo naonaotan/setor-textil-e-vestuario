@@ -32,7 +32,7 @@ Calculamos os seguintes indicadores financeiros para todas as empresas do setor 
 - ROA (Return on Assets)
 - Margem líquida
 
-![Indices]()
+![Indices](https://raw.githubusercontent.com/naonaotan/Setor-textil-e-vestuario/main/%C3%ADndices.png)
 
 Para facilitar o cálculo, inicialmente selecionamos colunas específicas - Nome da empresa (DENOM_CIA), Código da Conta (CD_CONTA) e Valor (VL_CONTA).
 
