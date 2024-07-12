@@ -58,9 +58,10 @@ Como fomos solicitados uma análise financeira pela visão de um investidor, dec
    Criamos três novas colunas no DataFrame e as renomeamos.
 ### Extração
 Extraímos esse df como arquivo xlsx para desenvolvimento de visualização no Power Bi.
-Para instalar e visualizar o arquivo `.pbix` no Power BI, siga os passos abaixo:
 
-### Pré-requisitos
+### Para instalar e visualizar o arquivo `.pbix` no Power BI, siga os passos abaixo:
+
+#### Pré-requisitos
 
 1. **Power BI Desktop**: Certifique-se de ter o [Power BI Desktop](https://powerbi.microsoft.com/desktop/) instalado no seu computador.
 
