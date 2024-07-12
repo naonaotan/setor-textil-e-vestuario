@@ -56,5 +56,16 @@ Como fomos solicitados uma análise financeira pela visão de um investidor, dec
    Em seguida, você usa reset_index() para transformar o índice gerado pela pivotagem em colunas normais, resultando em df_pivot.
 4. Criando novas colunas baseadas em cálculos de colunas existentes
    Criamos três novas colunas no DataFrame e as renomeamos.
-5. Extração
-   Extraímos esse df como arquivo xlsx para desenvolvimento de visualização no Power Bi.
+### Extração
+Extraímos esse df como arquivo xlsx para desenvolvimento de visualização no Power Bi.
+Para instalar e visualizar o arquivo `.pbix` no Power BI, siga os passos abaixo:
+
+### Pré-requisitos
+
+1. **Power BI Desktop**: Certifique-se de ter o [Power BI Desktop](https://powerbi.microsoft.com/desktop/) instalado no seu computador.
+
+### Passos
+
+1. **Clone o Repositório**:
+   ```sh
+   git clone https://github.com/naonaotan/Setor-textil-e-vestuario.git
