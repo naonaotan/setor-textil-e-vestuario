@@ -3,9 +3,10 @@ A partir de dados abertos extraídos do CVM (Comissão de Valores Mobiliários) 
 
 ### Proposta de desafio
 Fomos propostos a seguinte ideia:
-"Imagine que sou um investidor e estou interessado em fazer novos investimentos em variados setores e escolhi vocês como consultores para me auxiliar na tomada decisão.
-Montar um pitch sobre o porquê do seu setor ser interessante para investir e também qual a melhor empresa do setor na opinião do grupo.
-Informações interessantes para investidores são:
+
+  "Imagine que sou um investidor e estou interessado em fazer novos investimentos em variados setores e escolhi vocês como consultores para me auxiliar na tomada decisão.
+  Montar um pitch sobre o porquê do seu setor ser interessante para investir e também qual a melhor empresa do setor na opinião do grupo.
+  Informações interessantes para investidores são:
 - Lucro Líquido (3.11 da DRE)
 - Patrimônio Líquido (2.03 do BPP)
 - Receita Bruta (3.01 da DRE)
