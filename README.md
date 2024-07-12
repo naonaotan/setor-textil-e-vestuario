@@ -59,13 +59,13 @@ Como fomos solicitados uma análise financeira pela visão de um investidor, dec
 ### Extração
 Extraímos esse df como arquivo xlsx para desenvolvimento de visualização no Power Bi.
 
-### Para instalar e visualizar o arquivo `.pbix` no Power BI, siga os passos abaixo:
+#### Para instalar e visualizar o arquivo `.pbix` no Power BI, siga os passos abaixo:
 
 #### Pré-requisitos
 
 1. **Power BI Desktop**: Certifique-se de ter o [Power BI Desktop](https://powerbi.microsoft.com/desktop/) instalado no seu computador.
 
-### Passos
+#### Passos
 
 1. **Baixe o Arquivo `.pbix`**:
    - Clique [aqui](https://github.com/naonaotan/Setor-textil-e-vestuario/raw/main/Apresentação%20dos%20gráficos.pbix) para baixar o arquivo `.pbix`.
