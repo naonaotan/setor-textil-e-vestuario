@@ -66,6 +66,13 @@ Para instalar e visualizar o arquivo `.pbix` no Power BI, siga os passos abaixo:
 
 ### Passos
 
-1. **Clone o Repositório**:
-   ```sh
-   git clone https://github.com/naonaotan/Setor-textil-e-vestuario.git
+1. **Baixe o Arquivo `.pbix`**:
+   - Clique [aqui](https://github.com/naonaotan/Setor-textil-e-vestuario/raw/main/Apresentação%20dos%20gráficos.pbix) para baixar o arquivo `.pbix`.
+
+2. **Abra o Power BI Desktop**:
+   - Inicie o Power BI Desktop no seu computador.
+
+3. **Abra o Arquivo `.pbix`**:
+   - No Power BI Desktop, clique em `Arquivo` -> `Abrir`.
+   - Navegue até o local onde você baixou o arquivo `.pbix`.
+   - Selecione o arquivo `.pbix` e clique em `Abrir`.
