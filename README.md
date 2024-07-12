@@ -13,7 +13,7 @@ Fomos propostos a seguinte ideia:
 - Resultado Antes do Resultado Financeiro e dos Tributos (EBIT) (3.05 da DRE)
 - Dentre outros
   
-  Vocês podem comparar esses valores entre setores (intersetorial) e dentro do mesmo setor (intrasetorial), trazer a evolução histórica deles, etc."
+Vocês podem comparar esses valores entre setores (intersetorial) e dentro do mesmo setor (intrasetorial), trazer a evolução histórica deles, etc."
   
 [Clique aqui para visualizar a apresentação no Canva](https://www.canva.com/design/DAGCsXNBK1g/64wqNAD9UKimqUOThV_UtA/edit?utm_content=DAGCsXNBK1g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
