@@ -1,4 +1,4 @@
-# Setor textil e vestuário no Brasil. Apenas uma necessidade básica ou um potencial setor? 
+# Setor têxtil e vestuário no Brasil. Apenas uma necessidade básica ou um potencial setor? 
 A partir de dados abertos extraídos do CVM (Comissão de Valores Mobiliários) escolhemos um setor específico do mercado brasileiro e mostramos sua relevância e números.
 
 ### Proposta de desafio
