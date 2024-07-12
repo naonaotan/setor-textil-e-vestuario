@@ -1,4 +1,4 @@
-# Setor têxtil e vestuário no Brasil. Apenas uma necessidade básica ou um movimentador da economia? (03/05/2024)
+# Setor têxtil e vestuário no Brasil. Apenas uma necessidade básica ou um movimentador da economia? (05/03/2024)
 A partir de dados abertos extraídos do CVM (Comissão de Valores Mobiliários) escolhemos um setor específico do mercado brasileiro e mostramos sua relevância e números.
 
 ### Proposta de desafio
