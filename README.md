@@ -47,16 +47,23 @@ e adicionamos esses indicadores como novas colunas.
 
 ### Retorno de outros valores
 Como fomos solicitados uma análise financeira pela visão de um investidor, decidimos trazer além dos índices calculados, os valores de Lucro Líquido e trazer o EBIT também.
-1. Filtragem dos valores necessários na coluna CD_CONTA
+#### 1. Filtragem dos valores necessários na coluna CD_CONTA
+   
    Filtramos o DataFrame original df para selecionar apenas as linhas onde a coluna CD_CONTA contém os valores '3.11', '2.03', '3.01', '1' ou '3.05'.
    O resultado é salvo em um novo DataFrame chamado df_indicadores.
-2. Selecionando apenas as colunas que serão utilizadas
+   
+#### 2. Selecionando apenas as colunas que serão utilizadas
+   
    Criamos um novo DataFrame df_colunas que contém apenas as colunas DENOM_CIA, CD_CONTA, DT_FIM_EXERC e VL_CONTA do DataFrame df_indicadores.
-3. Pivotando a tabela
+   
+#### 4. Pivotando a tabela
+   
    Transformamos (pivotando) o DataFrame df_colunas de forma que as combinações de DENOM_CIA e DT_FIM_EXERC se tornem as linhas (index),
    os valores de CD_CONTA se tornem as colunas (columns), e os valores de VL_CONTA preencham as células da tabela resultante (values).
    Em seguida, você usa reset_index() para transformar o índice gerado pela pivotagem em colunas normais, resultando em df_pivot.
-4. Criando novas colunas baseadas em cálculos de colunas existentes
+   
+#### 5. Criando novas colunas baseadas em cálculos de colunas existentes
+   
    Criamos três novas colunas no DataFrame e as renomeamos.
 ### Extração
 Extraímos esse df como arquivo xlsx para desenvolvimento de visualização no Power Bi.
